@@ -10,4 +10,5 @@ cd openssl-3.0.7
 ./Configure
 make
 make install
+ldconfig /usr/local/lib64/
 ```
