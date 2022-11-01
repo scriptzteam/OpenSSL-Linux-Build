@@ -9,6 +9,5 @@ rm openssl-3.0.7.tar.gz
 cd openssl-3.0.7
 ./Configure
 make
-make test
 make install
 ```
